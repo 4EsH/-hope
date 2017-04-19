@@ -1,5 +1,5 @@
 # -hope
-My first project in my entire life.
+Learning basics of Java programing.
 
 
 
